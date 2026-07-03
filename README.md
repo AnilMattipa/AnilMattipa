@@ -86,7 +86,7 @@ I'm **Mattipa Anil**, a **Data Analyst (Fresher)** who loves turning messy, raw 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnilMattipa&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnilMattipa&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -98,4 +98,3 @@ I'm always open to connecting with fellow data enthusiasts, recruiters, or anyon
 <p align="center"><i>Thanks for stopping by — let's turn data into decisions. 🚀</i></p>
 
 </div>
-
