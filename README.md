@@ -754,20 +754,23 @@ Working as a Data Analyst Intern, building Business Intelligence solutions that 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AnilMattipa/AnilMattipa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AnilMattipa/AnilMattipa/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AnilMattipa/AnilMattipa/output/github-contribution-grid-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/AnilMattipa/AnilMattipa/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
-> **Enable Snake Animation**
->
-> Create a GitHub Action using:
->
-> https://github.com/Platane/snk
->
-> The generated SVG will automatically appear once GitHub Actions are configured.
-
 ---
-
 # Current Focus
 
 ```yaml
